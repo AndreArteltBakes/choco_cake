@@ -14,11 +14,11 @@
 
 * 81 ml milk
 
-* 2 tsp (10 g) baking powder
+* 10 g baking powder
 
 * 5 g vanilla sugar
 
-* 1 pinch (3 g) salt
+* 3 g salt
 
 -------------------------------------
 
