@@ -32,4 +32,4 @@
 
 4. Whisk milk into the batter of thought. For **digit four**, from the milk’s milliliters, sum its decimal digits, then take the integer square root of that sum.
 
-Add the total mass of the other dry ingredients to your code, pour into a lined tin, and bake until a toothpick comes out clean. While it bakes, assemble the four digits in order to open your lock.
+Add the total mass of the other dry ingredients to your code, pour into a lined tin, and bake until a toothpick comes out clean. While it bakes, use the code in order to open your lock.
