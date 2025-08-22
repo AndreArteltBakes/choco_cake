@@ -1,6 +1,6 @@
 # Algorithmic Chocolate Cake
 
-##Ingredients
+## Ingredients
 
 * 256 g flour
 
@@ -22,7 +22,7 @@
 
 -------------------------------------
 
-##Instructions:
+## Instructions:
 
 1. Preheat the oven and your brain. For the **first digit**, take the butter’s grams, write it in binary, and count the number of 1-bits (the popcount).
 
